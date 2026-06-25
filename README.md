@@ -1,2 +1,2 @@
 # website
-My Website.
+A GitHub repo for my website.
